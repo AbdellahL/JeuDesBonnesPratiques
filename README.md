@@ -1,0 +1,6 @@
+# JeuDesBonnesPratiques
+Jeu de plateau pour se familiariser avec les bonnes pratiques en matière de sécurité informatique  
+
+Notre projet étudie les facteurs d’adhésion aux mesures de sécurité informatique. Nous souhaitions alors créer un jeu permettant de sensibiliser les joueurs aux 12 bonnes pratiques de l’informatique de l’ANSSI (Agence Nationale de la sécurité des systèmes d’information). Notre but est de sensibiliser, mais aussi d’étudier les choix des joueurs concernant la protection de leur système d’information et de mettre cela en parallèle avec leur profil psychologique afin d’associer les profils aux pratiques à risques qu’ils sont les plus susceptibles de suivre.
+
+Ainsi, après l’étude de la littérature analysant les critères majeurs influençant le comportement des utilisateurs, qu’ils soient neurologiques, psychologiques ou encore technologiques. Nous observons ces comportements au travers de notre jeu de plateau. Nous avons donc conçu un jeu interactif, mettant les joueurs face à leurs connaissances des bonnes pratiques de l’informatique. Chaque joueur dispose d’un système d’information (S.I.) qu’il doit protéger au mieux contre différents types de cyberattaques durant la partie. Le but est de familiariser les joueurs aux stratégies à mettre en place face à des scénarios d’attaques informatiques. 
